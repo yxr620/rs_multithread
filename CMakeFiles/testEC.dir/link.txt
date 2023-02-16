@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/testEC.dir/test/testEC.cpp.o -o testEC   -L/home/yxr/EC_edr/isa-l/bin  -Wl,-rpath,/home/yxr/EC_edr/isa-l/bin libEC_edr.a -lisal 

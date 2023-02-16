@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEC_edr.a CMakeFiles/EC_edr.dir/src/IsaEC.cpp.o
+/usr/bin/ranlib libEC_edr.a
